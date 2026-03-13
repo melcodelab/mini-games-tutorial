@@ -2,6 +2,10 @@
 
 Um jogo clássico de cobrinha desenvolvido em **Python** com **Pygame**. Projeto criado como treino em desenvolvimento de games, seguindo um tutorial prático.
 
+<p align="center">
+  <img src="./demonstracao.gif" alt="Demonstração do Jogo da Cobrinha" width="600"/>
+</p>
+
 > Tutorial seguido: [Jogo Snake em Python - Criando o Jogo da Cobrinha com PyGame [Tutorial Completo] - Canal Hashtag Programação](https://www.youtube.com/watch?v=bgsmYOm-W80)
 
 ### Objetivo
